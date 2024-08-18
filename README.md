@@ -1,4 +1,6 @@
 
+# Assignment 1 of Data Privacy and Security
+
 
 
 *Balance between Privacy and Utility of data for analysis* 
@@ -191,7 +193,100 @@ for just reference how Entropy is calculated and also will provide manual calcul
 equivalence class.
 
 ![image](https://github.com/user-attachments/assets/504bd928-b80a-47a7-a042-6a436cf84a76)
+
 ![image](https://github.com/user-attachments/assets/4a7c3369-3876-4ac5-b477-c96b5d802436)
+
+• Calculating Entropy for all these groups is very lenghty, lets just take one group
+
+![image](https://github.com/user-attachments/assets/39e5421c-0c70-4354-bbd0-73e5999918b0)
+
+• When you see that in a dataset, it looks like this and here the entropy is 1.29
+
+
+![image](https://github.com/user-attachments/assets/576f7235-2c86-4b5d-8804-d60a2966239b)
+
+a. There are total of 18 records.
+
+Manual Calculation for Clarity: 
+
+![image](https://github.com/user-attachments/assets/798a5d65-3227-4d08-a959-0a1e07f23c77)
+
+c.   Set k = 5, `l = 3 for (a), and calculate the distortion and precision of the output.  
+
+![image](https://github.com/user-attachments/assets/b77a3d97-ca7b-4b3d-a0b2-5da9ed5c88fe)
+
+![image](https://github.com/user-attachments/assets/83012217-8e73-4b1c-8864-58b6e2449f5e)
+
+![image](https://github.com/user-attachments/assets/a15bb1da-d673-4c37-93f7-eb319262df33)
+
+![image](https://github.com/user-attachments/assets/1ed98185-a496-4465-998b-9ffb685d62be)
+
+Output Console: 
+
+![image](https://github.com/user-attachments/assets/5d68b49d-75da-4d44-b786-651e7cea0827)
+
+
+b.  Write a program for the heuristic algorithm (which generalizes/suppresses the data for 
+“Recursive(c,`l)-diversity” while minimizing the utility loss). You can use any programming language, e.g., 
+Java, Python, and C++
+
+![image](https://github.com/user-attachments/assets/61615e96-01ad-458c-9e77-596236e09e4a)
+
+![image](https://github.com/user-attachments/assets/5f172aaa-e586-4fcb-8838-ba8fd9ed5c9e)
+
+![image](https://github.com/user-attachments/assets/900fb443-81bf-4097-bd07-5ace098c9265)
+
+![image](https://github.com/user-attachments/assets/17a74788-482f-4b4c-9f83-7d4add967d94)
+
+Output Console: 
+
+![image](https://github.com/user-attachments/assets/0f02d33d-768f-4d76-aef0-5f3ac1d2ab68)
+
+
+
+• In recursive (c,l) diversity, it is just refining l diversity by providing additonal constraints to avoid 
+similarity attacks. 
+
+
+• We implemented a code such that in an equivalence class in recursive (c,l) diversity, f-threshold 
+frequency should be less than/equal to f-max frequency. By implementing this code we are 
+enhancing privacy and avoiding any similarity attacks by our generalized dataset.
+
+
+
+d) Set k = 5,l = 3 and c = 0.5, 1, 2 for (b), and calculate the distortion and precision of the outputs (three 
+outputs for different c). 
+
+![image](https://github.com/user-attachments/assets/507baad5-1460-460c-aac7-3c7fa1a6e82f)
+
+![image](https://github.com/user-attachments/assets/d69b5c4d-f8d6-459f-9dbe-fb7132f8d38b)
+
+![image](https://github.com/user-attachments/assets/484a263e-9d85-40d3-b68b-4c22d4c71c6b)
+
+![image](https://github.com/user-attachments/assets/e6d3761e-b1fd-4aed-bd7b-41e62d1f425d)
+
+![image](https://github.com/user-attachments/assets/fd2cd5fa-0c50-4023-b3af-95818ee956a2)
+
+
+Output Console: 
+
+![image](https://github.com/user-attachments/assets/8d4ea4b0-f3e5-4a9f-92dd-103d6b87eb85)
+
+• We obtain the values of distortion and precision for c=0.5, c=1 and c=2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
