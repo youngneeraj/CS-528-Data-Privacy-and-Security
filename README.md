@@ -153,11 +153,19 @@ Level 2: *
 a. Write a program for the heuristic algorithm (which generalizes/suppresses the data for “Entropy `l - diversity” while minimizing the utility loss). You can use any programming language, e.g., 
 Java,Python, and C++.
 
-![image](https://github.com/user-attachments/assets/53ea9562-6a81-42ec-bd40-a917db68978d)
+![image](https://github.com/user-attachments/assets/62b05064-0926-412a-b07f-cdbef4de5644)
 
-![image](https://github.com/user-attachments/assets/6d195342-1c8b-4f2b-b12d-6d6dd9d5c946)
+![image](https://github.com/user-attachments/assets/3303b73e-8ffb-4226-889f-ce141b1518b4)
 
-![image](https://github.com/user-attachments/assets/917b9b48-5faf-4dd8-a05f-b1c11041f78a)
+![image](https://github.com/user-attachments/assets/144ed743-04e9-4109-969f-bc80f12b13b2)
+
+![image](https://github.com/user-attachments/assets/56497fff-967a-4370-9788-54203235c2a2)
+
+
+
+
+
+
 
 • In this program, we took the database that has been created by k – anonymity which is 
 “get_anonymized_dataset” . 
