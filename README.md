@@ -148,6 +148,46 @@ data is missing or unspecified.
 Level 2: *
 
 
+2.1 Tasks: 
+
+a. Write a program for the heuristic algorithm (which generalizes/suppresses the data for “Entropy `l - diversity” while minimizing the utility loss). You can use any programming language, e.g., 
+Java,Python, and C++.
+
+![image](https://github.com/user-attachments/assets/53ea9562-6a81-42ec-bd40-a917db68978d)
+
+![image](https://github.com/user-attachments/assets/6d195342-1c8b-4f2b-b12d-6d6dd9d5c946)
+
+![image](https://github.com/user-attachments/assets/917b9b48-5faf-4dd8-a05f-b1c11041f78a)
+
+• In this program, we took the database that has been created by k – anonymity which is 
+“get_anonymized_dataset” . 
+
+• Implemented a code to obtain the Entropy l – diversity. The goal of Entropy l – diversity is nothing 
+but as  it is a privacy model that enhances the k – anonymity. 
+
+• Entropy is a measure of uncertainity and unpredictability that means higher entropy, higher 
+unpredictability in the sensitive attribute  column in each equivalence class. 
+
+• ENTROPY L DIVERSITY should be atleast log(l) 
+
+• After Implementation of that code we have created the “generalized_dataset_l_diversity”  
+
+• Ofcourse our dataset is huge,not all the equivalence classes will satisfy Entropy L Diversity 
+
+• We will attach all the source code files and anonymized datasets in a zip folder while submission. 
+
+
+Note:{For our own Educational Purposes} We have also implemented a code to calculate the 
+Entropy for equivalence classes which are non diverse from our “generalized_datatset_l_diversity” 
+for just reference how Entropy is calculated and also will provide manual calculation of one 
+equivalence class.
+
+![image](https://github.com/user-attachments/assets/504bd928-b80a-47a7-a042-6a436cf84a76)
+![image](https://github.com/user-attachments/assets/4a7c3369-3876-4ac5-b477-c96b5d802436)
+
+
+
+
 
 
 
