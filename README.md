@@ -65,6 +65,30 @@ anonymized data after applying (k1, k2) – anonymity and data for utilization w
 
 • We will attach all the source code files and anonymized datasets in a zip folder while submission. 
 
+c. Calculate the distortion and precision of the output (k1 = 10, k2 = 5) based on your designed 
+hierarchies and algorithm 
+
+![image](https://github.com/user-attachments/assets/55188bd6-9df5-425a-b372-5c0d755beb24)
+
+![image](https://github.com/user-attachments/assets/e78ce4f7-3ce7-41c1-a5a0-cb85b491ac67)
+
+Output Console: 
+
+• This code calculates the distortion and precision, and also we did manual calculations for better 
+understanding according to the formulas provided in the pdfs.
+
+Manual Calculation of Distortion and Precision: 
+
+![image](https://github.com/user-attachments/assets/56769d87-e3d7-4e3b-ab8a-852a7681da17)
+
+![image](https://github.com/user-attachments/assets/c2f2fc68-f849-4e39-9313-837f8a6c3bb5)
+
+
+
+
+
+
+
 
 
 
