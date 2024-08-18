@@ -60,7 +60,9 @@ Output Console:
 • There were total of 32561 records of adult data, after using generalization techniques and 
 following all the requiring conditions which have been mentioned in the assignment, we 
 anonymized data after applying (k1, k2) – anonymity and data for utilization we have is 30766. 
+
 • And also we have created the anonymized dataset as a “get_anonymized_dataset” 
+
 • We will attach all the source code files and anonymized datasets in a zip folder while submission. 
 
 
