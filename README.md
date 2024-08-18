@@ -34,3 +34,36 @@ Generalization focused on simplifying the representation of marriage.
 
 The current level generalization in the marital-status hierarchy is 1. 
 The maximum level generalization in the marital-status hierarchy is 3. 
+
+➢ Race: There was no need to generalize the race category such as 'White', 'Black', 'Asian
+Pac-Islander', 'Amer-Indian-Eskimo', and 'Other' into broader categories and there was 
+some missing data for this attribute in the adult data as mentioned in the instructions filling 
+missing data with “Unknown”. In this Quasi-identifer attribute the level of generalization 
+would create broader categories and might significantly reduce the racial and ethnic 
+identity. Again it might lead to higher privacy and lower data utilization.
+
+![image](https://github.com/user-attachments/assets/70f3adef-489e-4bea-90d6-627bbcf81487)
+
+The current level generalization in the race hierarchy is 0. 
+The maximum level of generalization in the race hierarchy is 2.
+
+b. Write a program for the heuristic algorithm, which generalizes/suppresses the data for (k1, k2)- 
+anonymity while minimizing the utility loss. You can use any programming language, e.g., Java, 
+Python, and C++. You can also extend the DataFly or µ-Argus Algorithm
+
+![image](https://github.com/user-attachments/assets/ae6ade4a-c769-4565-9890-03320346942a)
+![image](https://github.com/user-attachments/assets/5ca5094a-1876-42a7-a333-49446f46913e)
+
+Output Console: 
+![image](https://github.com/user-attachments/assets/35020298-45e7-456a-b630-21d96373ca19)
+
+• There were total of 32561 records of adult data, after using generalization techniques and 
+following all the requiring conditions which have been mentioned in the assignment, we 
+anonymized data after applying (k1, k2) – anonymity and data for utilization we have is 30766. 
+• And also we have created the anonymized dataset as a “get_anonymized_dataset” 
+• We will attach all the source code files and anonymized datasets in a zip folder while submission. 
+
+
+
+
+
