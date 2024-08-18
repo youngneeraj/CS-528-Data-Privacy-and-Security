@@ -18,3 +18,4 @@ The maximum level generalization in the age hierarchy is 4.
 ➢ Education: There was no need to generalize the education attribute in the quasi-identifier. 
 To quantify the analysis of the dataset by keeping the attribute as it is.
 
+![image](https://github.com/user-attachments/assets/79765115-aa3f-4e3a-a9c1-ba902e355805)
