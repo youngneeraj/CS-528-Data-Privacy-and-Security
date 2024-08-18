@@ -83,6 +83,57 @@ Manual Calculation of Distortion and Precision:
 
 ![image](https://github.com/user-attachments/assets/c2f2fc68-f849-4e39-9313-837f8a6c3bb5)
 
+![image](https://github.com/user-attachments/assets/44f9de18-f166-425e-a4db-f5a6b385b306)
+
+![image](https://github.com/user-attachments/assets/649a92da-018f-485a-a23e-bba572cabf30)
+
+
+2 L-Diversity 
+ 
+VGHs 
+Education 
+Level 0: Preschool, 1st-4th, 5th-6th, 7th-8th, 9th, 10th, 11th, 12th (without diploma), HS-grad, 
+Some-college (no degree), Assoc-voc, Assoc-acdm, Bachelors, Masters, Prof-school, Doctorate. 
+Level 1: Elementary: Preschool, 1st-4th, 5th-6th 
+Intermediate: 7th-8th, 9th, 10th 
+Secondary: 11th, 12th, HS-grad 
+Level 2: Non-degree Postsecondary: Some-college, Assoc-voc, Assoc-acdm 
+Undergraduate: Bachelors 
+Graduate: Masters, Prof-school, Doctorate 
+Level 3: * 
+ 
+        Age 
+        Level 0: exact ages(11,16,24, 46, 59 etc…) 
+        Level 1: 11-20, 21-30, 31-40, 41-50, 51-60. 
+        Level 2: 20-40, 40-60 
+        Level 3: <40, <60 
+        Level 4: * 
+         
+ 
+ Marital-status 
+Level 0: Current Specific Levels: Married-civ-spouse, Divorced, Never-married, Separated, Widowed,              
+Married-spouse-absent, Married-AF-spouse. 
+Level 1: Married: Combining all married statuses (Married-civ-spouse, Married-spouse-absent, Married
+AF-spouse) into a single 'Married' category, Divorced, Never-married, separated, widowed 
+Level 2: Married, single , previously married 
+Level 3: * 
+         
+Race 
+Level 0: Specific Levels (Current): White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black. 
+Level 1: Caucasian: This could include 'White' and possibly other groups classified under 'Other' that     
+predominantly identify with Caucasian ancestry. 
+African Descent: Combining 'Black' and potentially some individuals from 'Other' who identify with 
+African ancestry. 
+Asian/Pacific Islander: Keeping 'Asian-Pac-Islander' as a broad category that covers a wide range of 
+ethnic groups from Asia and the Pacific Islands. 
+Indigenous Peoples: This could potentially include 'Amer-Indian-Eskimo' and others who identify with 
+indigenous groups from various regions. 
+Other/Unknown: A catch-all category for those who do not fit into the above categories or whose race 
+data is missing or unspecified. 
+Level 2: *
+
+
+
 
 
 
